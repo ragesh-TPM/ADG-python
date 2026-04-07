@@ -1,5 +1,8 @@
 # this is repo for ADG recruitment in the python sub domain
 
+### NAME: RAGESH E
+### REG NO: 25BBS0155
+
 ## Problem Statement
 You are required to architect and build a modular, interactive command-line Railway Ticket Booking System in Python. The system will handle passenger intake, layered fare calculations, baggage weight checks, and promotional discounts to generate a final booking summary.
 The system must be fully interactive at runtime. Hardcoding data into your main logic or writing a single monolithic script will result in disqualification.
